@@ -205,15 +205,3 @@ footer .copyright {
     footer ul li a { font-size: 13px; }
 
 }
-#mobile {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-right: 40px;
-}
-
-#mobile img {
-    max-width: 400px;
-    width: 100%;
-    height: auto;
-}
